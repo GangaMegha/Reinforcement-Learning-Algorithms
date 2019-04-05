@@ -1,0 +1,45 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Introduction}{2}{section.0.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1}Upper Confidence Bound (UCB)}{2}{subsection.0.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2}Explore-then-Commit (ETC)}{3}{subsection.0.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Experiments}{3}{section.0.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}P1 set of Arms}{5}{subsection.0.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.1}Explore-then-Commit (ETC)}{5}{subsubsection.0.2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.2}Upper Confidence Bound (UCB)}{7}{subsubsection.0.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}P2 set of Arms}{7}{subsection.0.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.1}Explore-then-Commit (ETC)}{7}{subsubsection.0.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.2}Upper Confidence Bound (UCB)}{9}{subsubsection.0.2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3}P3 set of Arms}{9}{subsection.0.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.1}Explore-then-Commit (ETC)}{9}{subsubsection.0.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.2}Upper Confidence Bound (UCB)}{11}{subsubsection.0.2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4}P4 set of Arms}{11}{subsection.0.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.4.1}Explore-then-Commit (ETC)}{11}{subsubsection.0.2.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.4.2}Upper Confidence Bound (UCB)}{13}{subsubsection.0.2.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Comparison of algorithms}{14}{section.0.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}P1 set of Arms}{14}{subsection.0.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}P2 set of Arms}{16}{subsection.0.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}P3 set of Arms}{18}{subsection.0.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4}P4 set of Arms}{20}{subsection.0.3.4}
